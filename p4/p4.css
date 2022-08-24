@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+header {
+  height: 200px;
+  background-image: url(img/img/airport.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.main-visual {
+   height: 200px;
+  background-image: url(img/img/asia.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.main {
+   height: 200px;
+  background-image: url(img/img/desert.jpg);
+  background-size: cover;
+  background-position: center;
+}
+footer {
+   height: 200px;
+  background-image: url(img/img/forest.jpg);
+  background-size: cover;
+  background-position: center;
+}
